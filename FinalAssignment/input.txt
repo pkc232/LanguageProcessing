@@ -1,0 +1,10 @@
+if(true)
+{
+	int c=a+b;
+	d=c+d+e;
+
+	if(!(a>b))
+	{
+	c=d+e+f;
+	}
+}

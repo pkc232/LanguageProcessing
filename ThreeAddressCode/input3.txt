@@ -1,0 +1,12 @@
+int a,b;
+a=3;
+switch(a){
+	case 1:{b=7;}
+	case 2:{b=9;}
+	case 3:{
+	if(2+3>5)
+	b=25;
+	b++;
+	}
+	default : {b=7;}
+}
